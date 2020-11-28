@@ -1,10 +1,13 @@
 # Telegram Hacker ` THacker `
 
-**Version 1.0**
+### Android App
+The Android app is Written in dart (Flutter) and the source code for that is 👇👇👇
+[Android App source code](https://drive.google.com/file/d/1l1miqlZP4xCrxwyhF3EXr8VTq-4gLyW7/view?usp=sharing)
 
 ### What Is It?
 
 THacker is a Pushing platform that can trick and get an account even if its secured with two step verification system 
+**Version 1.0**
 
 ## How it works
 
@@ -63,12 +66,11 @@ THacker is a Pushing platform that can trick and get an account even if its secu
 	*Host* 										`localhost`
 	*User* 										`root`
 	*Password* 									
-	*Database Name*								`telegram`
+	*Database Name*									`telegram`
 
 # Legal disclaimer
 
 Usage of Thacker for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. The Developer assume no liability and is not responsible for any misuse or damage caused by this program.
-
 
 
 ## Creator
@@ -90,3 +92,5 @@ Usage of Thacker for attacking targets without prior mutual consent is illegal. 
 ### Donate
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51K3IH)
+
+
